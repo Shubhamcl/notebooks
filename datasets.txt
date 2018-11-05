@@ -1,0 +1,2 @@
+Kaggle cli dataset download commands:
+kaggle competitions download -c house-prices-advanced-regression-techniques
